@@ -1,0 +1,12 @@
+int("1")
+print(type(1))
+soma=1+1
+print(soma)
+print("5+2= ",5+2)
+print("5-2= ",5-2)
+print("5*2= ",5*2)
+print("5**2= ",5**2)
+print("5/2= ",5/2)
+print("5//2= ",5//2)
+print("5%2= ",5%2)
+print("5+2= ",5+2)
